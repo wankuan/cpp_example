@@ -1,0 +1,3 @@
+/Users/kendrick/my_workspace/c_cpp_workspace/cpp_primer/build/CMakeFiles/rebuild_cache.dir
+/Users/kendrick/my_workspace/c_cpp_workspace/cpp_primer/build/CMakeFiles/edit_cache.dir
+/Users/kendrick/my_workspace/c_cpp_workspace/cpp_primer/build/CMakeFiles/demo1.dir

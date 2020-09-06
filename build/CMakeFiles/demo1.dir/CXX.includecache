@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kendrick/my_workspace/c_cpp_workspace/cpp_primer/ConsoleApplication2.cpp
+iostream
+-
+string
+-
+vector
+-
+
